@@ -28,18 +28,17 @@
 
 ### Mᴜsᴛ AᴅᴅVᴀʀɪᴀʙʟᴇs
 
-`BOT_TOKEN` 👈 ᴄʀᴇᴀᴛᴇ ᴀ ʙᴏᴛ ғʀᴏᴍ ʙᴏᴛғᴀᴛʜᴇʀ
-`API_ID` 👈 ɢᴇᴛ ᴀᴘɪ ɪᴅ ғʀᴏᴍ ( Telegram.Org )
-`API_HASH` 👈 ɢᴇᴛ ᴀᴘɪ ʜᴀsʜ ғʀᴏᴍ ( Telegram.Org )
-`CHANNELS` 👈 ᴄʀᴇᴀᴛᴇ ᴀ ᴅʙ ᴄʜᴀɴɴᴇʟ ᴀɴᴅ ᴀᴅᴍɪɴ ᴛʜᴇ ᴅᴇᴘᴏʟʏ ʙᴏᴛ
-`ADMINS` 👈 ɢᴇᴛ ᴜʀ ɪᴅ ғʀᴏᴍ ( @MissRose_bot ) ʙᴏᴛ
-`DATABASE_URI` 👈 ɢᴇᴛ ᴍᴏɴɢᴏᴅʙ ᴜʀʟ ғʀᴏᴍ ( mongodb.com )
-`DATABASE_NAME` 👈 ɢᴇᴛ ᴍᴏɴɢᴏᴅʙ ɴᴀᴍᴇ ғʀᴏᴍ ( mongodb.com )
-`LOG_CHANNEL` 👈 ᴄʀᴇᴀᴛᴇ ᴀ ʟᴏɢ ᴄʜᴀɴɴᴇʟ ᴀɴᴅ ᴀᴅᴍɪɴ ᴛʜᴇ ᴅᴇᴘᴏʟʏ ʙᴏᴛ
-`SHORTENER_SITE` 👈 ɢɪᴠᴇ ᴜʀ sʜᴏʀᴛɴᴇʀ ᴡᴇʙsɪᴛᴇ ʟɪɴᴋ 
-# ᴇxᴀᴍᴘʟᴇ shorturllink.in ! shareus.in ! Droplink.co ! Tnlinks.in ! Ect
-`SHORTNER_API` 👈 ɢᴇᴛ ᴀᴘɪ ғʀᴏᴍ ᴜʀ sʜᴏʀᴛɴᴇʀ ᴡᴇʙsɪᴛᴇ sᴇᴛᴛɪɴɢs
-`AUTO_DELETE_SECONDS` 👈 ɢɪᴠᴇ ɪɴ sᴇᴄᴏɴᴅs ғᴏʀᴍᴀᴛ
+- `BOT_TOKEN` 👈 ᴄʀᴇᴀᴛᴇ ᴀ ʙᴏᴛ ғʀᴏᴍ ʙᴏᴛғᴀᴛʜᴇʀ
+- `API_ID` 👈 ɢᴇᴛ ᴀᴘɪ ɪᴅ ғʀᴏᴍ ( Telegram.Org )
+- `API_HASH` 👈 ɢᴇᴛ ᴀᴘɪ ʜᴀsʜ ғʀᴏᴍ ( Telegram.Org )
+- `CHANNELS` 👈 ᴄʀᴇᴀᴛᴇ ᴀ ᴅʙ ᴄʜᴀɴɴᴇʟ ᴀɴᴅ ᴀᴅᴍɪɴ ᴛʜᴇ ᴅᴇᴘᴏʟʏ ʙᴏᴛ
+- `ADMINS` 👈 ɢᴇᴛ ᴜʀ ɪᴅ ғʀᴏᴍ ( @MissRose_bot ) ʙᴏᴛ
+- `DATABASE_URI` 👈 ɢᴇᴛ ᴍᴏɴɢᴏᴅʙ ᴜʀʟ ғʀᴏᴍ ( mongodb.com )
+- `DATABASE_NAME` 👈 ɢᴇᴛ ᴍᴏɴɢᴏᴅʙ ɴᴀᴍᴇ ғʀᴏᴍ ( mongodb.com )
+- `LOG_CHANNEL` 👈 ᴄʀᴇᴀᴛᴇ ᴀ ʟᴏɢ ᴄʜᴀɴɴᴇʟ ᴀɴᴅ ᴀᴅᴍɪɴ ᴛʜᴇ ᴅᴇᴘᴏʟʏ ʙᴏᴛ
+- `SHORTENER_SITE` 👈 ɢɪᴠᴇ ᴜʀ sʜᴏʀᴛɴᴇʀ ᴡᴇʙsɪᴛᴇ ʟɪɴᴋ 
+- `SHORTNER_API` 👈 ɢᴇᴛ ᴀᴘɪ ғʀᴏᴍ ᴜʀ sʜᴏʀᴛɴᴇʀ ᴡᴇʙsɪᴛᴇ sᴇᴛᴛɪɴɢs
+- `AUTO_DELETE_SECONDS` 👈 ɢɪᴠᴇ ɪɴ sᴇᴄᴏɴᴅs ғᴏʀᴍᴀᴛ
 
 ## Mᴜsᴛ Dᴏ Bᴇғᴏʀᴇ Eᴅɪᴛ Tʜɪs Rᴇᴘᴏ 👇
 
