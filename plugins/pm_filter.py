@@ -82,26 +82,24 @@ async def next_page(bot, query):
             ]
             for file in files
         ]
-
     btn.insert(0, 
+        [
+            InlineKeyboardButton('🔋 Hᴏᴡ ᴛᴏ ᴅᴏᴡɴʟᴏᴀᴅ 🔋', url='https://t.me/Sharath_Links/13')
+        ]
+    )
+    btn.insert(1, 
         [
             InlineKeyboardButton('ɢʀᴏᴜᴘ', url='https://t.me/TamilanMoviesChat'),
             InlineKeyboardButton('ᴄᴏɴᴛᴀᴄᴛ', url='https://t.me/Sharathitsisme')
         ]
     )
    
-
     if 0 < offset <= 6:
         off_set = 0
     elif offset == 0:
         off_set = None
     else:
         off_set = offset - 6
-    # How to Download button
-
-    btn.append(
-    [InlineKeyboardButton(text="⚡ ʜᴏᴡ ᴛᴏ ᴅᴏᴡɴʟᴏᴀᴅ ⚡", url='https://t.me/Sharath_Links/13')]
-)
     if n_offset == 0:
         btn.append(
             [InlineKeyboardButton("ᴘᴀɢᴇs", callback_data="pages"),
@@ -707,7 +705,11 @@ async def auto_filter(client, msg, spoll=False):
             ]
             for file in files
         ]
-
+    btn.insert(0, 
+        [
+            InlineKeyboardButton('🔋 Hᴏᴡ ᴛᴏ ᴅᴏᴡɴʟᴏᴀᴅ 🔋', url='https://t.me/Sharath_Links/13')
+        ]
+    )
     if offset != "":
         key = f"{message.chat.id}-{message.id}"
         BUTTONS[key] = search
