@@ -26,21 +26,24 @@
 - 🔥
 - 🔥
 
+### Mᴜsᴛ AᴅᴅVᴀʀɪᴀʙʟᴇs
+
+BOT_TOKEN 👈 ᴄʀᴇᴀᴛᴇ ᴀ ʙᴏᴛ ғʀᴏᴍ ʙᴏᴛғᴀᴛʜᴇʀ
+API_ID 👈 ɢᴇᴛ ᴀᴘɪ ɪᴅ ғʀᴏᴍ ( Telegram.Org )
+API_HASH 👈 ɢᴇᴛ ᴀᴘɪ ʜᴀsʜ ғʀᴏᴍ ( Telegram.Org )
+CHANNELS 👈 ᴄʀᴇᴀᴛᴇ ᴀ ᴅʙ ᴄʜᴀɴɴᴇʟ ᴀɴᴅ ᴀᴅᴍɪɴ ᴛʜᴇ ᴅᴇᴘᴏʟʏ ʙᴏᴛ
+ADMINS 👈 ɢᴇᴛ ᴜʀ ɪᴅ ғʀᴏᴍ ( @MissRose_bot ) ʙᴏᴛ
+DATABASE_URI 👈 ɢᴇᴛ ᴍᴏɴɢᴏᴅʙ ᴜʀʟ ғʀᴏᴍ ( mongodb.com )
+DATABASE_NAME 👈 ɢᴇᴛ ᴍᴏɴɢᴏᴅʙ ɴᴀᴍᴇ ғʀᴏᴍ ( mongodb.com )
+LOG_CHANNEL 👈 ᴄʀᴇᴀᴛᴇ ᴀ ʟᴏɢ ᴄʜᴀɴɴᴇʟ ᴀɴᴅ ᴀᴅᴍɪɴ ᴛʜᴇ ᴅᴇᴘᴏʟʏ ʙᴏᴛ
+SHORTENER_SITE 👈 ɢɪᴠᴇ ᴜʀ sʜᴏʀᴛɴᴇʀ ᴡᴇʙsɪᴛᴇ ʟɪɴᴋ 
+# ᴇxᴀᴍᴘʟᴇ shorturllink.in ! shareus.in ! Droplink.co ! Tnlinks.in ! Ect
+SHORTNER_API 👈 ɢᴇᴛ ᴀᴘɪ ғʀᴏᴍ ᴜʀ sʜᴏʀᴛɴᴇʀ ᴡᴇʙsɪᴛᴇ sᴇᴛᴛɪɴɢs
+AUTO_DELETE_SECONDS 👈 ɢɪᴠᴇ ɪɴ sᴇᴄᴏɴᴅs ғᴏʀᴍᴀᴛ
 
 ## Mᴜsᴛ Dᴏ Bᴇғᴏʀᴇ Eᴅɪᴛ Tʜɪs Rᴇᴘᴏ 👇
 
  - 💗 Sᴛᴀʀ Tʜɪs Rᴇᴘᴏ 🌟 - Sᴜᴘᴘᴏʀᴛ TᴀᴍɪʟᴀɴBᴏᴛsZ Cᴏᴍᴍᴜɴɪᴛʏ 💥 -
-
-### Rᴇǫᴜɪʀᴇᴅ Vᴀʀɪᴀʙʟᴇꜱ
-* BOT_TOKEN : Cʀᴇᴀᴛᴇ ᴀ ʙᴏᴛ ᴜꜱɪɴɢ [@BᴏᴛFᴀᴛʜᴇʀ](ʜᴛᴛᴘꜱ://ᴛᴇʟᴇɢʀᴀᴍ.ᴅᴏɢ/BᴏᴛFᴀᴛʜᴇʀ), ᴀɴᴅ ɢᴇᴛ ᴛʜᴇ Tᴇʟᴇɢʀᴀᴍ API ᴛᴏᴋᴇɴ.
-* API_ID : Gᴇᴛ ᴛʜɪꜱ ᴠᴀʟᴜᴇ ғʀᴏᴍ [ᴛᴇʟᴇɢʀᴀᴍ.ᴏʀɢ](ʜᴛᴛᴘꜱ://ᴍʏ.ᴛᴇʟᴇɢʀᴀᴍ.ᴏʀɢ/ᴀᴘᴘꜱ)
-* API_HASH : Gᴇᴛ ᴛʜɪꜱ ᴠᴀʟᴜᴇ ғʀᴏᴍ [ᴛᴇʟᴇɢʀᴀᴍ.ᴏʀɢ](ʜᴛᴛᴘꜱ://ᴍʏ.ᴛᴇʟᴇɢʀᴀᴍ.ᴏʀɢ/ᴀᴘᴘꜱ)
-* CHANNELS : Uꜱᴇʀɴᴀᴍᴇ ᴏʀ ID ᴏғ ᴄʜᴀɴɴᴇʟ ᴏʀ ɢʀᴏᴜᴘ. Sᴇᴘᴀʀᴀᴛᴇ ᴍᴜʟᴛɪᴘʟᴇ IDꜱ ʙʏ ꜱᴘᴀᴄᴇ
-* ADMINS : Uꜱᴇʀɴᴀᴍᴇ ᴏʀ ID ᴏғ Aᴅᴍɪɴ. Sᴇᴘᴀʀᴀᴛᴇ ᴍᴜʟᴛɪᴘʟᴇ Aᴅᴍɪɴꜱ ʙʏ ꜱᴘᴀᴄᴇ
-* DATABASE_URI : [ᴍᴏɴɢᴏDB](ʜᴛᴛᴘꜱ://ᴡᴡᴡ.ᴍᴏɴɢᴏᴅʙ.ᴄᴏᴍ) URI. Gᴇᴛ ᴛʜɪꜱ ᴠᴀʟᴜᴇ ғʀᴏᴍ [ᴍᴏɴɢᴏDB](ʜᴛᴛᴘꜱ://ᴡᴡᴡ.ᴍᴏɴɢᴏᴅʙ.ᴄᴏᴍ). Fᴏʀ ᴍᴏʀᴇ ʜᴇʟᴘ ᴡᴀᴛᴄʜ ᴛʜɪꜱ [ᴠɪᴅᴇᴏ](ʜᴛᴛᴘꜱ://ʏᴏᴜᴛᴜ.ʙᴇ/ɪS_ɴLQ𝟾ɪ𝟸EQ )
-* DATABASE_NAME : Nᴀᴍᴇ ᴏғ ᴛʜᴇ ᴅᴀᴛᴀʙᴀꜱᴇ ɪɴ [ᴍᴏɴɢᴏDB](ʜᴛᴛᴘꜱ://ᴡᴡᴡ.ᴍᴏɴɢᴏᴅʙ.ᴄᴏᴍ). Fᴏʀ ᴍᴏʀᴇ ʜᴇʟᴘ ᴡᴀᴛᴄʜ ᴛʜɪꜱ [ᴠɪᴅᴇᴏ](ʜᴛᴛᴘꜱ://ʏᴏᴜᴛᴜ.ʙᴇ/ɪS_ɴLQ𝟾ɪ𝟸EQ )
-* LOG_CHANNEL : A ᴄʜᴀɴɴᴇʟ ᴛᴏ ʟᴏɢ ᴛʜᴇ ᴀᴄᴛɪᴠɪᴛɪᴇꜱ ᴏғ ʙᴏᴛ. Mᴀᴋᴇ ꜱᴜʀᴇ ʙᴏᴛ ɪꜱ ᴀɴ ᴀᴅᴍɪɴ ɪɴ ᴛʜᴇ ᴄʜᴀɴɴᴇʟ.
-* Cʜᴇᴄᴋ [ɪɴғᴏ.ᴘʏ](ʜᴛᴛᴘꜱ://ɢɪᴛʜᴜʙ.ᴄᴏᴍ/TᴀᴍɪʟᴀɴBᴏᴛꜱᴢ/AᴡᴇꜱᴏᴍᴇFɪʟᴛᴇʀ/ʙʟᴏʙ/ᴍᴀꜱᴛᴇʀ/ɪɴғᴏ.ᴘʏ) ғᴏʀ ᴍᴏʀᴇ ᴠᴀʀɪᴀʙʟᴇꜱ
 
 ## Dᴇᴘᴏʟʏ
 Yᴏᴜ Cᴀɴ Dᴇᴘᴏʟʏ Tʜɪs Rᴇᴘᴏ AɴʏWʜᴇʀᴇ
@@ -134,7 +137,7 @@ unban - 🙇ᴜɴʙᴀɴ ᴀɴʏ ᴜsᴇʀ (ᴀᴅᴍɪɴ ᴏɴʟʏ)
 link - 🖇️ʟɪɴᴋ ᴛᴏ ᴘᴏsᴛ (ᴀᴅᴍɪɴ ᴏɴʟʏ)
 ```
 
-## Credits 
+## Cʀᴇᴅɪᴛs
 Rᴇᴘᴏ Oᴡɴᴇʀ/Cʀᴇᴀᴛᴏʀ *[![TᴀᴍɪʟᴀɴBᴏᴛsZ-Mᴇ](https://img.shields.io/static/v1?label=TamilanBotsZ&message=devs&color=critical)](https://telegram.dog/Tamilan_BotsZ)
 
 Pʀᴏᴍᴏᴛᴇᴅ Oᴜʀ Rᴇᴘᴏ *[![Mᴀʀᴋᴇᴛᴛɪɴɢ-Oᴜʀ-Rᴇᴘᴏ](https://img.shields.io/static/v1?label=GreyMatters&message=devs&color=critical)](https://telegram.dog/Tamilan_BotsZ)
@@ -145,7 +148,7 @@ Pʀᴏᴍᴏᴛᴇᴅ Oᴜʀ Rᴇᴘᴏ *[![Mᴀʀᴋᴇᴛᴛɪɴɢ-Oᴜʀ-Rᴇ
  - Tʜᴀɴᴋs Tᴏ Gʀᴇʏ Mᴀᴛᴛᴇʀ's Tᴇᴀᴍ ❣️
  - Tʜᴀɴᴋs Tᴏ Oᴜʀ Usᴇʀs😇
 
-## Disclaimer
+## Dɪsᴄʟᴀᴍɪɴᴇʀ
 
 - Tʜɪs Is OᴘᴇɴSᴏᴜʀᴄᴇ Pʀᴏᴊᴇᴄᴛ Sᴏ Dᴏɴ'ᴛ Sᴇʟʟ Tʜɪs Rᴇᴘᴏ Fᴏʀ Mᴏɴᴇʏ
 - Pʟᴇᴀsᴇ Dᴏɴ'ᴛ Cʜᴀɴɢᴇ "Uᴘᴅᴀᴛᴇs" Bᴜᴛᴛᴏɴ Lɪɴᴋ
