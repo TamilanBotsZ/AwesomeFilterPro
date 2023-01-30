@@ -418,13 +418,14 @@ async def cb_handler(client: Client, query: CallbackQuery):
         await query.answer()
     elif query.data == "start":
         buttons = [[
-            InlineKeyboardButton('🤖 ᴜᴘᴅᴀᴛᴇs 🤖', url='https://t.me/TamilanBotsZ'),
+            InlineKeyboardButton('🤖 ᴜᴘᴅᴀᴛᴇs 🤖', url='https://t.me/Tamilan_BotsZ'),
             InlineKeyboardButton('💥 ᴍᴏᴠɪᴇs ♥️', url='https://t.me/+qswNBTRWlv9lNjQ1')
             ],[
             InlineKeyboardButton('💞 sᴜᴘᴘᴏʀᴛ 💞', url='https://t.me/TamilanBotsZ_Support'),
             InlineKeyboardButton('👩‍💻 ʀᴇᴘᴏ ✨', url='https://GitHub.Com/TamilanBotsZ/AwesomeFilterPro'),
             ],[
             InlineKeyboardButton('👋 ᴇxᴛʀᴀ ʙᴜᴛᴛᴏɴs 👋', callback_data='about'),
+            ],[
             InlineKeyboardButton('🔐 ᴄʟᴏsᴇ 🔐', callback_data='close_data')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
@@ -463,10 +464,10 @@ async def cb_handler(client: Client, query: CallbackQuery):
     elif query.data == "about":
         buttons = [[
             InlineKeyboardButton('🙄 ᴏᴡɴᴇʀ 🙄', url='https://t.me/Sharathitsisme'),
-            InlineKeyboardButton('🤖 ᴜᴘᴅᴀᴛᴇs 🤖', url='https://t.me/TamilanBotsZ'),
+            InlineKeyboardButton('🤖 ᴜᴘᴅᴀᴛᴇs 🤖', url='https://t.me/Tamilan_BotsZ'),
         ], [
-            InlineKeyboardButton('👩‍💻 sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ 👩‍💻', url='https://GitHub.Com/TamilanBotsZ/AwesomeFilterPro'),
-            InlineKeyboardButton('😍 sʜᴀʀᴇ ᴍᴇ 😍', url='https://telegram.me/share/url?url=Hɪ_Pʟᴇᴀsᴇ_Usᴇ_Tʜɪs_Bᴏᴛ_Fᴏʀ_Mᴏᴠɪᴇs_{temp.U_NAME}'),
+            InlineKeyboardButton('👩‍💻 sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ 👩‍💻', url='https://GitHub.Com/TamilanBotsZ/AwesomeFilterPro'), #Please Change your bot username
+            InlineKeyboardButton('😍 sʜᴀʀᴇ ᴍᴇ 😍', url='https://telegram.me/share/url?url=Hɪ_Pʟᴇᴀsᴇ_Usᴇ_Tʜɪs_Bᴏᴛ_Fᴏʀ_Mᴏᴠɪᴇ_@TAMILAN_ENTERTAIMENT_BOT'),
         ],[
             InlineKeyboardButton('🔐 ᴄʟᴏsᴇ 🔐', callback_data='close_data')
         ]]
@@ -474,7 +475,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         await query.message.edit_text(
             text="▣▢▢"
         )
-        await query.message.edit_text(
+        await query.message.edit_te
             text="▣▣▢"
         )
         await query.message.edit_text(
