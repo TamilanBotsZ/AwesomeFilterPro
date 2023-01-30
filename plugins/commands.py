@@ -246,6 +246,12 @@ async def start(client, message):
             f_caption=f_caption
     if f_caption is None:
         f_caption = f"{files.file_name}"
+    buttons = [
+                    [
+                        InlineKeyboardButton('🚸 ᴅᴇʟᴇᴛᴇ', callback_data='close_data'),
+                        InlineKeyboardButton('💞 sʜᴀʀᴇ', url="https://t.me/share/url?url=t.me/TamilanMoviesChat")
+                    ],[
+                    ]
     await client.send_cached_media(
         chat_id=message.from_user.id,
         file_id=file_id,
