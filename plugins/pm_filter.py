@@ -465,9 +465,9 @@ async def cb_handler(client: Client, query: CallbackQuery):
         buttons = [[
             InlineKeyboardButton('🙄 ᴏᴡɴᴇʀ 🙄', url='https://t.me/Sharathitsisme'),
             InlineKeyboardButton('🤖 ᴜᴘᴅᴀᴛᴇs 🤖', url='https://t.me/Tamilan_BotsZ'),
-        ], [
+        ],[
             InlineKeyboardButton('👩‍💻 sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ 👩‍💻', url='https://GitHub.Com/TamilanBotsZ/AwesomeFilterPro'), #Please Change your bot username
-            InlineKeyboardButton('😍 sʜᴀʀᴇ ᴍᴇ 😍', url='https://telegram.me/share/url?url=Hɪ_Pʟᴇᴀsᴇ_Usᴇ_Tʜɪs_Bᴏᴛ_Fᴏʀ_Mᴏᴠɪᴇ_@TAMILAN_ENTERTAIMENT_BOT'),
+            InlineKeyboardButton('😍 sʜᴀʀᴇ ᴍᴇ 😍', url='https://t.me/{temp.U_NAME}?start=help.
         ],[
             InlineKeyboardButton('🔐 ᴄʟᴏsᴇ 🔐', callback_data='close_data')
         ]]
