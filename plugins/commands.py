@@ -252,7 +252,6 @@ async def start(client, message):
                     [
                         InlineKeyboardButton('🚸 ᴅᴇʟᴇᴛᴇ', callback_data='close_data'),
                         InlineKeyboardButton('💞 sʜᴀʀᴇ', url="https://t.me/share/url?url=t.me/TamilanMoviesChat")
-                    ],[
                     ]
     await client.send_cached_media(
         chat_id=message.from_user.id,
