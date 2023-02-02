@@ -23,7 +23,7 @@ async def start(client, message):
     if message.chat.type in [enums.ChatType.GROUP, enums.ChatType.SUPERGROUP]:
         buttons = [
             [
-                InlineKeyboardButton('🤖 ᴜᴘᴅᴀᴛᴇs 🤖', url='https://t.me/TamilanBotsZ')
+                InlineKeyboardButton('🤖 ᴜᴘᴅᴀᴛᴇs 🤖', url='https://t.me/Tamilan_BotsZ')
             ],
             [
                 InlineKeyboardButton('ℹ️ ʜᴇʟᴘ ℹ️', url=f"https://t.me/{temp.U_NAME}?start=help"),
@@ -44,7 +44,7 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('➕ ᴀᴅᴅ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true'),
             ],[
-            InlineKeyboardButton('🤖 ᴜᴘᴅᴀᴛᴇs 🤖', url='https://t.me/TamilanBotsZ'),
+            InlineKeyboardButton('🤖 ᴜᴘᴅᴀᴛᴇs 🤖', url='https://t.me/Tamilan_BotsZ'),
             InlineKeyboardButton('💥 ᴍᴏᴠɪᴇs ♥️', url='https://t.me/+qswNBTRWlv9lNjQ1'),
             ],[
             InlineKeyboardButton('💞 sᴜᴘᴘᴏʀᴛ 💞', url='https://t.me/TamilanBotsZ_Support'),
@@ -94,7 +94,7 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('➕ ᴀᴅᴅ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true'),
             ],[
-            InlineKeyboardButton('🤖 ᴜᴘᴅᴀᴛᴇs 🤖', url='https://t.me/TamilanBotsZ'),
+            InlineKeyboardButton('🤖 ᴜᴘᴅᴀᴛᴇs 🤖', url='https://t.me/Tamilan_BotsZ'),
             InlineKeyboardButton('💥 ᴍᴏᴠɪᴇs ♥️', url='https://t.me/+qswNBTRWlv9lNjQ1'),
             ],[
             InlineKeyboardButton('💞 sᴜᴘᴘᴏʀᴛ 💞', url='https://t.me/TamilanBotsZ_Support'),
