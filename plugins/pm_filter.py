@@ -478,7 +478,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('🤖 ᴜᴘᴅᴀᴛᴇs 🤖', url='https://t.me/Tamilan_BotsZ'),
         ],[
             InlineKeyboardButton('👩‍💻 sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ 👩‍💻', url='https://GitHub.Com/TamilanBotsZ/AwesomeFilterPro'), #Please Change your bot username
-            InlineKeyboardButton('😍 sʜᴀʀᴇ ᴍᴇ 😍', url='url=f'https://t.me/share/url?url=t.me/{temp.U_NAME}),
+            InlineKeyboardButton('😍 sʜᴀʀᴇ ᴍᴇ 😍', url='url=f'https://t.me/share/url?url=t.me/{temp.U_NAME}'),
         ],[
             InlineKeyboardButton('🔐 ᴄʟᴏsᴇ 🔐', callback_data='close_data')
         ]]
