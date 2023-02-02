@@ -450,16 +450,30 @@ async def cb_handler(client: Client, query: CallbackQuery):
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await query.message.edit_text(
-            text="▣▢▢"
+
+            text="▣▢▢▢"
+
         )
+
         await query.message.edit_text(
-            text="▣▣▢"
+
+
+            text="▣▣▢▢"
+
         )
+
         await query.message.edit_text(
-            text="▣▣▣"
+
+            text="▣▣▣▢"
+
         )
+
         await query.message.edit_text(
+
+            text ="▣▣▣▣"
+
         )
+        
     elif query.data == "about":
         buttons = [[
             InlineKeyboardButton('🙄 ᴏᴡɴᴇʀ 🙄', url='https://t.me/Sharathitsisme'),
@@ -472,15 +486,17 @@ async def cb_handler(client: Client, query: CallbackQuery):
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await query.message.edit_text(
-            text="▣▢▢"
+            text="▣▢▢▢"
         )
         await query.message.edit_text(
-            text="▣▣▢"
+            text="▣▣▢▢"
         )
         await query.message.edit_text(
-            text="▣▣▣"
+            text="▣▣▣▢"
         )
         await query.message.edit_text(
+            text ="▣▣▣▣"
+        )
             text=script.ABOUT_TXT.format(query.from_user.mention),
             reply_markup=reply_markup,
             parse_mode=enums.ParseMode.HTML
