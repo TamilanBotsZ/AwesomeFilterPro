@@ -66,9 +66,6 @@ LOG_STR += f"Your current IMDB template is {IMDB_TEMPLATE}"
 
 AUTO_DELETE_SECONDS = environ.get("AUTO_DELETE_SECONDS", "180")
 
-SHORTENER_SITE = environ.get("SHORTENER_SITE", "Shorturllink.in")
-SHORTENER_API = environ.get("SHORTENER_API", "d7e6bf4c5666744fbcd6aa8ba0a08d4cac41e27a")
-LONG_DROPLINK_URL = environ.get("LONG_DROPLINK_URL", False)
-
-
+URL_SHORTENR_WEBSITE = environ.get('URL_SHORTENR_WEBSITE', 'shorturllink.in')
+URL_SHORTNER_WEBSITE_API = environ.get('URL_SHORTNER_WEBSITE_API', '')
 
