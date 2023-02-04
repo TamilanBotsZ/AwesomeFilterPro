@@ -8,6 +8,7 @@
 
 👩‍💻 Vᴇʀsɪᴏɴ :- 0.1 ✨
 
+🌟 Fᴏʀᴋ & Sᴛᴀʀ Nᴏᴡ 💥
 
 ## HɪɢʜLɪɢʜᴛ Fᴇᴀᴛᴜʀᴇs
 
@@ -139,12 +140,9 @@ link - 🖇️ʟɪɴᴋ ᴛᴏ ᴘᴏsᴛ (ᴀᴅᴍɪɴ ᴏɴʟʏ)
 ## Cʀᴇᴅɪᴛs
 Rᴇᴘᴏ Oᴡɴᴇʀ/Cʀᴇᴀᴛᴏʀ *[![TᴀᴍɪʟᴀɴBᴏᴛsZ-Mᴇ](https://img.shields.io/static/v1?label=TamilanBotsZ&message=devs&color=critical)](https://telegram.dog/Tamilan_BotsZ)
 
-Pʀᴏᴍᴏᴛᴇᴅ Oᴜʀ Rᴇᴘᴏ *[![Mᴀʀᴋᴇᴛᴛɪɴɢ-Oᴜʀ-Rᴇᴘᴏ](https://img.shields.io/static/v1?label=GreyMatters&message=devs&color=critical)](https://telegram.dog/Tamilan_BotsZ)
-
 ## Tʜᴀɴᴋs Tᴏ 
  - Tʜᴀɴᴋs Tᴏ Mᴇ 🤩
  - Tʜᴀɴᴋs Tᴏ Eᴠᴀ Mᴀʀɪᴇ Tᴇᴀᴍ❣️
- - Tʜᴀɴᴋs Tᴏ Gʀᴇʏ Mᴀᴛᴛᴇʀ's Tᴇᴀᴍ ❣️
  - Tʜᴀɴᴋs Tᴏ Oᴜʀ Usᴇʀs😇
 
 ## Dɪsᴄʟᴀᴍɪɴᴇʀ
