@@ -38,7 +38,7 @@
 - `DATABASE_NAME` 👈 ɢᴇᴛ ᴍᴏɴɢᴏᴅʙ ɴᴀᴍᴇ ғʀᴏᴍ ( mongodb.com )
 - `LOG_CHANNEL` 👈 ᴄʀᴇᴀᴛᴇ ᴀ ʟᴏɢ ᴄʜᴀɴɴᴇʟ ᴀɴᴅ ᴀᴅᴍɪɴ ᴛʜᴇ ᴅᴇᴘᴏʟʏ ʙᴏᴛ
 - `SHORTENER_SITE` 👈 ɢɪᴠᴇ ᴜʀ sʜᴏʀᴛɴᴇʀ ᴡᴇʙsɪᴛᴇ ʟɪɴᴋ 
-- `SHORTNER_API` 👈 ɢᴇᴛ ᴀᴘɪ ғʀᴏᴍ ᴜʀ sʜᴏʀᴛɴᴇʀ ᴡᴇʙsɪᴛᴇ sᴇᴛᴛɪɴɢs
+- `SHORTENER_API` 👈 ɢᴇᴛ ᴀᴘɪ ғʀᴏᴍ ᴜʀ sʜᴏʀᴛɴᴇʀ ᴡᴇʙsɪᴛᴇ sᴇᴛᴛɪɴɢs
 - `AUTO_DELETE_SECONDS` 👈 ɢɪᴠᴇ ɪɴ sᴇᴄᴏɴᴅs ғᴏʀᴍᴀᴛ
 
 ## Mᴜsᴛ Dᴏ Bᴇғᴏʀᴇ Eᴅɪᴛ Tʜɪs Rᴇᴘᴏ 👇
