@@ -69,7 +69,7 @@ Yᴏᴜ Cᴀɴ Dᴇᴘᴏʟʏ Tʜɪs Rᴇᴘᴏ AɴʏWʜᴇʀᴇ
   </a>
   </p>
   <p>
-
+</details>
 <details><summary>Dᴇᴘᴏʟʏ Tᴏ Kᴏʏᴇʙ {ғʀᴇᴇ}</summary>
 <p>
 <br>
@@ -78,7 +78,7 @@ Yᴏᴜ Cᴀɴ Dᴇᴘᴏʟʏ Tʜɪs Rᴇᴘᴏ AɴʏWʜᴇʀᴇ
   </a>
   </p>
   <p>
-  
+</details>  
 <details><summary>Dᴇᴘᴏʟʏ Tᴏ Oᴋᴛᴇᴛᴏ {ᴘᴀɪᴅ}</summary>
 <p>
 <br>
