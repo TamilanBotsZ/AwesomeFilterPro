@@ -786,7 +786,7 @@ async def auto_filter(client, msg, spoll=False):
                 await fek.delete()
     else:
         fuk = await message.reply_text(cap, reply_markup=InlineKeyboardMarkup(btn))
-        if SELF_DELETE:
+        if AUTO_DELETE:
             await asyncio.sleep(AUTO_DELETE_SECONDS)
             await fuk.delete()
 
