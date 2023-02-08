@@ -70,6 +70,7 @@ AUTO_DELETE = environ.get('AUTO_DELETE', True)
 if AUTO_DELETE == "True":
     AUTO_DELETE = True
 
-URL_SHORTENR_WEBSITE = environ.get('URL_SHORTENR_WEBSITE', '')
-URL_SHORTNER_WEBSITE_API = environ.get('URL_SHORTNER_WEBSITE_API', '')
+#Sample
+SHORTENER_SITE = "tnlink.in"
+SHORTNER_API = "kdjdoensnmslodjdbbdskllsns"
 
