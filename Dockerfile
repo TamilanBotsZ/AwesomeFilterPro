@@ -1,6 +1,6 @@
-FROM python:3.10
+FROM python:3.8.7
 
-WORKDIR /TamilanBotsz
+WORKDIR /TamilanBotsZ
 
 COPY requirements.txt ./
 
