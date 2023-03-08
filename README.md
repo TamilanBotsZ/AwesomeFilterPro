@@ -45,10 +45,6 @@
 
  - 💗 Sᴛᴀʀ Tʜɪs Rᴇᴘᴏ 🌟 - Sᴜᴘᴘᴏʀᴛ TᴀᴍɪʟᴀɴBᴏᴛsZ Cᴏᴍᴍᴜɴɪᴛʏ 💥 -
 
-## Mᴜsᴛ Cʜᴀɴɢᴇ Tʜɪs Lɪɴᴇ
-
-Cʜᴀɴɢᴇ Uʀ Lɪɴᴋ Sʜᴏʀᴛᴇɴᴇʀ Sɪᴛᴇ Oʀ Nᴏᴛ Wᴏʀᴋ Pʀᴏᴘᴇʀʟʏ :- https://github.com/TamilanBotsZ/AwesomeFilterPro/blob/94abaa30297d1a040e01eea471c54a00a2fab3e8/utils.py#L386
-
 ## Dᴇᴘᴏʟʏ
 Yᴏᴜ Cᴀɴ Dᴇᴘᴏʟʏ Tʜɪs Rᴇᴘᴏ AɴʏWʜᴇʀᴇ
 
