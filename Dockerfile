@@ -1,4 +1,4 @@
-FROM python:3.8.7
+FROM python:3.10
 
 WORKDIR /TamilanBotsZ
 
